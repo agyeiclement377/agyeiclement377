@@ -4,7 +4,7 @@
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 </div>
 <h3 align="center">Proficient Java Developer</h3>
-<h4 align="center">Software Engineer 💻 Passionate about continuous growth and development.</h4>
+<h4 align="center"> 💻 Passionate about continuous growth and development.</h4>
 <h4 align="center">AI & ML Enthusiastic</h4>
 
 
