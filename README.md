@@ -35,7 +35,7 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=agyeiclement377&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!---
 agyeiclement377/agyeiclement377 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
