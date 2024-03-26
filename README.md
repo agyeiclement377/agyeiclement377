@@ -6,6 +6,7 @@
 <h3 align="center">Proficient Java Developer</h3>
 <h4 align="center"> 💻 Passionate about continuous growth and development.</h4>
 <h4 align="center">AI & ML Enthusiastic</h4>
+ <img align="right" height="250" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 ### 👨🏻‍💻 &nbsp;About Me
