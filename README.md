@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning more about: DSA , MEAN , Angular, CS Algorithms, Machine learning, AI, API, Open Source
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me agyeiclement377@gmail.com
-- 
+- ⚡ Fun fact: I could be a bot! Who knows?!
 
 ### 🛠 &nbsp;Tech Stack
 
