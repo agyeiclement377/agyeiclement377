@@ -7,9 +7,7 @@
 <h4 align="center"> 💻 Passionate about continuous growth and development.</h4>
 <h4 align="center">AI & ML Enthusiastic</h4>
 
-<p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "35" height= "70"></p>
-
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true"></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ### 👨🏻‍💻 &nbsp;About Me
