@@ -6,10 +6,10 @@
 <h3 align="center">Proficient Java Developer</h3>
 <h4 align="center"> 💻 Passionate about continuous growth and development.</h4>
 <h4 align="center">AI & ML Enthusiastic</h4>
-<br><br>
-<br>
 
 <p align= "center"><img src="https://media2.giphy.com/media/QmGShkWAWid2hzCqHE/giphy.gif" width= "35" height= "70"></p>
+
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=shobhitsrivastava-ds&show_icons=true"></p>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
